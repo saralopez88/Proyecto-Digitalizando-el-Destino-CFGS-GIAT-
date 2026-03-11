@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>202603112139088WNZO9</value>
+    <value>20260311215217F3M14B</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202603112139089PCF02</value>
+    <value>20260311215217R72SD1</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -108,7 +108,7 @@
       <odePageId>page-1773252866958-fssg5fjm3</odePageId>
       <odeBlockId>block-1773252903938-zbfsbwyju</odeBlockId>
       <blockName>Bienvenida</blockName>
-      <iconName></iconName>
+      <iconName>interactive</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -173,7 +173,7 @@
       <odePageId>page-1773254620570-yn4nqltmz</odePageId>
       <odeBlockId>block-1773254656819-6bcedq62t</odeBlockId>
       <blockName>Inicio</blockName>
-      <iconName></iconName>
+      <iconName>case</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -246,7 +246,7 @@
       <odePageId>page-1773257114319-wgk4go1fj</odePageId>
       <odeBlockId>block-1773257131479-96lk0vwbe</odeBlockId>
       <blockName>Infografía seguridad en la Red</blockName>
-      <iconName></iconName>
+      <iconName>observe</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -292,6 +292,48 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773257114319-wgk4go1fj</odePageId>
+      <odeBlockId>block-1773262235034-kmg88bwh2</odeBlockId>
+      <blockName>Infografía seguridad</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773257114319-wgk4go1fj</odePageId>
+          <odeBlockId>block-1773262235034-kmg88bwh2</odeBlockId>
+          <odeIdeviceId>idevice-1773262235033-rlri9xzlb</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.canva.com/design/DAHDXWBIe1g/XfF7aX8LRWzp1XehUqW_aA/edit?utm_content=DAHDXWBIe1g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -310,7 +352,7 @@
       <odePageId>page-1773257275842-yvyjcm4n3</odePageId>
       <odeBlockId>block-1773257289438-vu8mwqaw5</odeBlockId>
       <blockName>El reto real</blockName>
-      <iconName></iconName>
+      <iconName>draw</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -345,12 +387,54 @@
 <p style="text-align: justify;">Para el producto final de mi unidad en el módulo de Destinos Turísticos, os voy a proponer el uso combinado de Google My Maps (para la cartografía interactiva) y Canva (para el diseño visual del catálogo de recursos).</p>
 <p style="text-align: justify;">Objetivo de las herramientas: El objetivo es que seáis capaces de geolocalizar recursos turísticos, añadir información técnica multimedia en cada punto y presentar un producto final con un acabado profesional que simule un encargo real del sector.</p>
 <p style="text-align: justify;">Justificación de la elección:</p>
-<p style="text-align: justify;">Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id="link_3" />Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.<br />Os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea <a href="el-reto-tu-guia-turistica-digital.html" title="Temporalización de la actividad" rel="external noopener" target="_blank" id="link_4">AQUÍ.</a></p>
+<p style="text-align: justify;">Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id="link_3" />Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.<br />Os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea.</p>
 <p style="text-align: justify;"><iframe width="1536" height="768" src="{{context_path}}/content/resources/hoja de ruta.PNG"></iframe></p>
 <p style="text-align: justify;">Saludos,</p>
 <p style="text-align: justify;">Sara.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257289437-zcxv5cah1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Hola a todos y a todas!</p>\n<p style=\"text-align: justify;\">Para el producto final de mi unidad en el módulo de Destinos Turísticos, os voy a proponer el uso combinado de Google My Maps (para la cartografía interactiva) y Canva (para el diseño visual del catálogo de recursos).</p>\n<p style=\"text-align: justify;\">Objetivo de las herramientas: El objetivo es que seáis capaces de geolocalizar recursos turísticos, añadir información técnica multimedia en cada punto y presentar un producto final con un acabado profesional que simule un encargo real del sector.</p>\n<p style=\"text-align: justify;\">Justificación de la elección:</p>\n<p style=\"text-align: justify;\">Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id=\"link_3\" />Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.<br />Os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea <a href=\"exe-node:page-1773257275842-yvyjcm4n3\" title=\"Temporalización de la actividad\" rel=\"external noopener\" target=\"_blank\" id=\"link_4\">AQUÍ.</a></p>\n<p style=\"text-align: justify;\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/hoja de ruta.PNG\"></iframe></p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257289437-zcxv5cah1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¡Hola a todos y a todas!</p>\n<p style=\"text-align: justify;\">Para el producto final de mi unidad en el módulo de Destinos Turísticos, os voy a proponer el uso combinado de Google My Maps (para la cartografía interactiva) y Canva (para el diseño visual del catálogo de recursos).</p>\n<p style=\"text-align: justify;\">Objetivo de las herramientas: El objetivo es que seáis capaces de geolocalizar recursos turísticos, añadir información técnica multimedia en cada punto y presentar un producto final con un acabado profesional que simule un encargo real del sector.</p>\n<p style=\"text-align: justify;\">Justificación de la elección:</p>\n<p style=\"text-align: justify;\">Versatilidad y profesionalización: Ambas herramientas son estándares de facto en el sector turístico actual. Su uso permite una transición directa al mundo laboral. Aprovechando la nueva modalidad DUAL se contribuye significativamente tanto dentro del aula como en la empresa u organismo equiparado.<br id=\"link_3\" />Contexto y disponibilidad: Al ser herramientas basadas en la nube, podéis trabajar tanto en los equipos del centro como en vuestros propios dispositivos (comúnmente BYOD - Bring Your Own Device), garantizando la continuidad del proyecto sin depender de software instalado.<br />Edad y competencia digital: Tratándose de alumnado de Grado Superior, poseéis la madurez necesaria para gestionar cuentas y permisos de edición colaborativa, por supuesto bajo recomendaciones y guía del profesorado. La curva de aprendizaje es equilibrada, permitiéndonos centrarnos más en el contenido técnico que en la propia herramienta.<br />Os dejo por aquí la temporalización del proyecto, aunque también podéis consultarlo en línea.</p>\n<p style=\"text-align: justify;\"><iframe width=\"1536\" height=\"768\" src=\"{{context_path}}/content/resources/hoja de ruta.PNG\"></iframe></p>\n<p style=\"text-align: justify;\">Saludos,</p>\n<p style=\"text-align: justify;\">Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773257275842-yvyjcm4n3</odePageId>
+      <odeBlockId>block-1773262014270-edy7mbjw4</odeBlockId>
+      <blockName>Temporalización en línea</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773257275842-yvyjcm4n3</odePageId>
+          <odeBlockId>block-1773262014270-edy7mbjw4</odeBlockId>
+          <odeIdeviceId>idevice-1773262014269-x99vfkplg</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://mm.tt/map/3959986012?t=iWGfQFOJ8I" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -375,7 +459,7 @@
       <odePageId>page-1773257412582-1w9hkwry0</odePageId>
       <odeBlockId>block-1773257422334-0n7105nms</odeBlockId>
       <blockName>Caja de herramientas</blockName>
-      <iconName></iconName>
+      <iconName>file</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -438,7 +522,7 @@
       <odePageId>page-1773257517729-ejpvj38sz</odePageId>
       <odeBlockId>block-1773257530190-egoh3pskr</odeBlockId>
       <blockName>Padlet</blockName>
-      <iconName></iconName>
+      <iconName>geography</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -471,11 +555,52 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Buenas tardes.</p>
 <p style="text-align: justify;">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>
-<p>Os dejo en el siguiente <a href="padlet-contenidos.html" title="Padlet" rel="external noopener" target="_blank" id="link_5">ENLACE</a> el acceso a <em>Padlet</em>. <a href="padlet-contenidos.html" title="Padlet" rel="external noopener" target="_blank">ENLACE PADLET</a></p>
 <p>Saludos,</p>
 <p>Sara.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257530189-swtmmzmkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257517729-ejpvj38sz\" title=\"Padlet\" rel=\"external noopener\" target=\"_blank\" id=\"link_5\">ENLACE</a> el acceso a <em>Padlet</em>. <a href=\"exe-node:page-1773257517729-ejpvj38sz\" title=\"Padlet\" rel=\"external noopener\" target=\"_blank\">ENLACE PADLET</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257530189-swtmmzmkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773257517729-ejpvj38sz</odePageId>
+      <odeBlockId>block-1773261861013-0wiyc1u4g</odeBlockId>
+      <blockName>Enlace PADLET</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773257517729-ejpvj38sz</odePageId>
+          <odeBlockId>block-1773261861013-0wiyc1u4g</odeBlockId>
+          <odeIdeviceId>idevice-1773261861012-75rdemwr5</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/scflpez/smart-tourism-tu-maleta-digital-de-recursos-y-herramientas-iifdhfc8j1uwx3am" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -500,7 +625,7 @@
       <odePageId>page-1773257613706-m1l8wsec5</odePageId>
       <odeBlockId>block-1773257617201-w7156f5vk</odeBlockId>
       <blockName>Symbaloo muy útil</blockName>
-      <iconName></iconName>
+      <iconName>geography</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -533,11 +658,52 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Buenas tardes.</p>
 <p style="text-align: justify;">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>
-<p>Os dejo en el siguiente <a href="symbaloo-para-docentes.html" title="Symbaloo" rel="external noopener" target="_blank" id="link_6">ENLACE</a> el acceso a <em>Symbaloo</em>. <a href="symbaloo-para-docentes.html" title="Symbaloo" rel="external noopener" target="_blank">ENLACE SYMBALOO</a></p>
 <p>Saludos,</p>
 <p>Sara.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257617201-tdd4eghvi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257613706-m1l8wsec5\" title=\"Symbaloo\" rel=\"external noopener\" target=\"_blank\" id=\"link_6\">ENLACE</a> el acceso a <em>Symbaloo</em>. <a href=\"exe-node:page-1773257613706-m1l8wsec5\" title=\"Symbaloo\" rel=\"external noopener\" target=\"_blank\">ENLACE SYMBALOO</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257617201-tdd4eghvi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773257613706-m1l8wsec5</odePageId>
+      <odeBlockId>block-1773261925005-84h05birh</odeBlockId>
+      <blockName>Enlace SYMBALOO</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773257613706-m1l8wsec5</odePageId>
+          <odeBlockId>block-1773261925005-84h05birh</odeBlockId>
+          <odeIdeviceId>idevice-1773261925004-n2foj6h21</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAAB9yJVzAAA42AShTtHA==" size="1" width="600" height="200" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -562,7 +728,7 @@
       <odePageId>page-1773257800830-7b2qb61ab</odePageId>
       <odeBlockId>block-1773258008362-94psexflc</odeBlockId>
       <blockName>¿Cómo se evaluará?</blockName>
-      <iconName></iconName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -624,7 +790,7 @@
       <odePageId>page-1773258086538-nemu2yoy1</odePageId>
       <odeBlockId>block-1773258121940-tc4evq4kk</odeBlockId>
       <blockName>Rúbrica</blockName>
-      <iconName></iconName>
+      <iconName>ask</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -694,7 +860,7 @@
       <odePageId>page-1773258294196-mwxh15xvr</odePageId>
       <odeBlockId>block-1773258296229-pwtrskkan</odeBlockId>
       <blockName>Cuestionario</blockName>
-      <iconName></iconName>
+      <iconName>draw</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -740,6 +906,48 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773258294196-mwxh15xvr</odePageId>
+      <odeBlockId>block-1773262149096-w5jpj88l2</odeBlockId>
+      <blockName>Cuestionario Google Forms</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773258294196-mwxh15xvr</odePageId>
+          <odeBlockId>block-1773262149096-w5jpj88l2</odeBlockId>
+          <odeIdeviceId>idevice-1773262149095-hruzaknfb</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcYdgDxU3povwmlweiyj_hoXZcvDV7PVHg8BetIeoYjxKu_w/viewform?usp=sharing&ouid=107131771994001856310" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -758,7 +966,7 @@
       <odePageId>page-1773258571963-3r7y7evx0</odePageId>
       <odeBlockId>block-1773258589572-t3jb6dkrj</odeBlockId>
       <blockName>Guía didáctica</blockName>
-      <iconName></iconName>
+      <iconName>share</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -804,6 +1012,48 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1773258571963-3r7y7evx0</odePageId>
+      <odeBlockId>block-1773262295283-nwq6a5kiz</odeBlockId>
+      <blockName>Guía didactica</blockName>
+      <iconName>stop</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1773258571963-3r7y7evx0</odePageId>
+          <odeBlockId>block-1773262295283-nwq6a5kiz</odeBlockId>
+          <odeIdeviceId>idevice-1773262295282-t62tqo2cs</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1YrQ3X1st0Fzf3hapVsRMLFVaTwVg5REOKQbyAO1an0E/edit?usp=sharing" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -822,7 +1072,7 @@
       <odePageId>page-1773258736473-trk9ojtw7</odePageId>
       <odeBlockId>block-1773258811134-7uzj8wgt1</odeBlockId>
       <blockName>Créditos y descarga</blockName>
-      <iconName></iconName>
+      <iconName>info</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
