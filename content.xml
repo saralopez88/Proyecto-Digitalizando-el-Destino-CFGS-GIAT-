@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260311211009QVIXXI</value>
+    <value>202603112139088WNZO9</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260311211009AJFD2W</value>
+    <value>202603112139089PCF02</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -471,11 +471,11 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Buenas tardes.</p>
 <p style="text-align: justify;">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>
-<p>Os dejo en el siguiente <a href="padlet-contenidos.html" title="Padlet" rel="external noopener" target="_blank" id="link_5">ENLACE</a> el acceso a <em>Padlet</em>.</p>
+<p>Os dejo en el siguiente <a href="padlet-contenidos.html" title="Padlet" rel="external noopener" target="_blank" id="link_5">ENLACE</a> el acceso a <em>Padlet</em>. <a href="padlet-contenidos.html" title="Padlet" rel="external noopener" target="_blank">ENLACE PADLET</a></p>
 <p>Saludos,</p>
 <p>Sara.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257530189-swtmmzmkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257517729-ejpvj38sz\" title=\"Padlet\" rel=\"external noopener\" target=\"_blank\" id=\"link_5\">ENLACE</a> el acceso a <em>Padlet</em>.</p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257530189-swtmmzmkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">En este espacio disponéis de un Padlet con una selección de materiales, artículos y ejemplos visuales para vuestra guía turística. Está diseñado para que tengáis toda la inspiración necesaria a un solo clic. ¡Explorad las columnas y aprovechad los recursos seleccionados!</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257517729-ejpvj38sz\" title=\"Padlet\" rel=\"external noopener\" target=\"_blank\" id=\"link_5\">ENLACE</a> el acceso a <em>Padlet</em>. <a href=\"exe-node:page-1773257517729-ejpvj38sz\" title=\"Padlet\" rel=\"external noopener\" target=\"_blank\">ENLACE PADLET</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -533,11 +533,11 @@
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Buenas tardes.</p>
 <p style="text-align: justify;">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>
-<p>Os dejo en el siguiente <a href="symbaloo-para-docentes.html" title="Symbaloo útil para docentes" rel="external noopener" target="_blank" id="link_6">ENLACE</a> el acceso a <em>Symbaloo</em>.</p>
+<p>Os dejo en el siguiente <a href="symbaloo-para-docentes.html" title="Symbaloo" rel="external noopener" target="_blank" id="link_6">ENLACE</a> el acceso a <em>Symbaloo</em>. <a href="symbaloo-para-docentes.html" title="Symbaloo" rel="external noopener" target="_blank">ENLACE SYMBALOO</a></p>
 <p>Saludos,</p>
 <p>Sara.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257617201-tdd4eghvi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257613706-m1l8wsec5\" title=\"Symbaloo útil para docentes\" rel=\"external noopener\" target=\"_blank\" id=\"link_6\">ENLACE</a> el acceso a <em>Symbaloo</em>.</p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1773257617201-tdd4eghvi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Buenas tardes.</p>\n<p style=\"text-align: justify;\">Como futuros profesionales del turismo, la organización de las fuentes es clave. Aquí presento mi Symbaloo, donde he curado y organizado los enlaces oficiales, herramientas de diseño y fuentes de datos más fiables del sector. Un tablero de mandos esencial para gestionar la información con eficacia.</p>\n<p>Os dejo en el siguiente <a href=\"exe-node:page-1773257613706-m1l8wsec5\" title=\"Symbaloo\" rel=\"external noopener\" target=\"_blank\" id=\"link_6\">ENLACE</a> el acceso a <em>Symbaloo</em>. <a href=\"exe-node:page-1773257613706-m1l8wsec5\" title=\"Symbaloo\" rel=\"external noopener\" target=\"_blank\">ENLACE SYMBALOO</a></p>\n<p>Saludos,</p>\n<p>Sara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
